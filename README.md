@@ -1,4 +1,4 @@
-# Food Deserts and the Underestimated Impact on Public Health
+# Food Deserts and the Understated Impact on Public Health
 
 ---
 ## Author:
@@ -23,9 +23,8 @@ I have initiated this data science 'study' in attempt to help quantify the socia
 |Compressed Mortality, 1999-2016| Rates of death by underlying cause of death, state, county, age, race, sex, and year | [Link](https://wonder.cdc.gov/cmf-icd10.html)|
 
 ---
-## Table Contents
+## TOC
 
-1.
 
 ---
 
