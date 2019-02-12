@@ -1,7 +1,7 @@
 # Food Deserts and the Underestimated Impact on Public Health
 
 ---
-## Project Authors:
+## Author:
 
 Ashley White
 - [LinkedIn](https://www.linkedin.com/in/aewhite5/)
@@ -23,31 +23,37 @@ I have initiated this data science 'study' in attempt to help quantify the socia
 |Compressed Mortality, 1999-2016| Rates of death by underlying cause of death, state, county, age, race, sex, and year | [Link](https://wonder.cdc.gov/cmf-icd10.html)|
 
 ---
-## Methodology
+## Table Contents
 
-#### TBU
-- TBU
-    - TBU
+1.
 
 ---
-## Executive Summary
-TBU
 
-### Problem Statement
-- TBU
+## Data Collection and Analysis
 
-### Data Collection and Analysis
+### The Question:
+What is the impact  of food access on public healthy?
 
-TBU  
+### The Data Science Problem:
+What is the covariance / correlation and predictive accuracy of food access  features  as it relates to per capita mortality rates?
+
+### The Approach:
+Leverage generalized linear models and decision tree regression to evaluate mean absolute error, r^2, and feature importance
+
+---
 
 ### Conclusion
 
-TBU
+* Food access can explain 20-80% of the variance in per capita mortality rates  at  the county level
+* Increased correlation in deaths from drug overdoses, transportation, and diabetes
+* Lessons to be learned from self-sustaining rural areas
+* SNAP appears to help reduce impact of food access
+
+---
 
 ### Next Steps
 
-1. TBU
-2. TBU
-3. TBU
-
-### Viz
+* Incorporate Data from Food Environment Atlas & Census Tract Mortality
+* Improve viz / interactivity
+* Identify counties with biggest potential for improvement / intervention
+* Identify counties to gather lessons learned
