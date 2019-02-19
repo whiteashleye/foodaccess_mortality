@@ -25,9 +25,23 @@ I have initiated this data science study to quantify the social externalities of
 ---
 ## TOC
 ### Inputs
-1. [Mortality & SVI & Food Access Cleaned Data File](foodaccess_mortality/df_foodaccess_allmortality_SVI.csv)
+- [Mortality and Food Access Cleaned Data File](https://github.com/whiteashleye/foodaccess_mortality/blob/master/df_foodaccess_allmortality_SVI.csv)
 
-### Outputs
+### Modeling
+- [Elastic Net Regression](https://github.com/whiteashleye/foodaccess_mortality/blob/master/FoodAccess_Mortality_Regression_NoPoverty_Log10_AWS.ipynb)
+
+- [Random Forest Regression](https://github.com/whiteashleye/foodaccess_mortality/blob/master/FoodAccess_Mortality_RandomForest_AWS.ipynb)
+
+- [Poisson GLM](https://github.com/whiteashleye/foodaccess_mortality/blob/master/FoodAccess_Mortality_Statsmodels.ipynb)
+
+### Scores & Evaluation
+- [Elastic Net Scores](https://github.com/whiteashleye/foodaccess_mortality/blob/master/enet_Log10_scores.csv)
+
+- [Poisson GLM Coefficients](https://github.com/whiteashleye/foodaccess_mortality/blob/master/LAShare_coefs.csv)
+
+- [Random Forest Scores](https://github.com/whiteashleye/foodaccess_mortality/blob/master/rf_scores.csv)
+
+- [Random Forest Feature Importance](https://github.com/whiteashleye/foodaccess_mortality/blob/master/rf_feature_importance.csv)
 
 
 ---
@@ -35,7 +49,7 @@ I have initiated this data science study to quantify the social externalities of
 ## Data Collection and Analysis
 
 ### The Question:
-What is the impact  of food access on public healthy?
+What is the impact of food access on public healthy?
 
 ### The Data Science Problem:
 What is the covariance / correlation and predictive accuracy of food access  features  as it relates to per capita mortality rates?
