@@ -11,7 +11,7 @@ Ashley White
 ## Introduction
 Many academic studies have examined the effects of food access on proximal outcomes, such as food shopping behavior and food consumption. Others have asserted the relative lack of access to full-service grocery stores and the easier access to fast and convenience foods may be linked to obesity and other diet-related diseases.
 
-I have initiated this data science 'study' in attempt to help quantify the social externalities of food access in an effort to raise awareness and encourage communities to more effectively advocate for effective solutions.
+I have initiated this data science study to quantify the social externalities of food access in an effort to raise awareness and encourage communities to more effectively advocate for effective solutions.
 
 
 ---
@@ -24,6 +24,10 @@ I have initiated this data science 'study' in attempt to help quantify the socia
 
 ---
 ## TOC
+### Inputs
+1. [Mortality & SVI & Food Access Cleaned Data File](foodaccess_mortality/df_foodaccess_allmortality_SVI.csv)
+
+### Outputs
 
 
 ---
