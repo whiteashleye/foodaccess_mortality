@@ -13,6 +13,7 @@ Many academic studies have examined the effects of food access on proximal outco
 
 I have initiated this data science study to quantify the social externalities of food access in an effort to raise awareness and encourage communities to more effectively advocate for effective solutions.
 
+[Presentation](https://docs.google.com/presentation/d/1jXU9hSN0IifVkv4yjy-Uy0IvyltaqJX00cUokGf5ggM/edit?usp=sharing)
 
 ---
 ## Data Collection
